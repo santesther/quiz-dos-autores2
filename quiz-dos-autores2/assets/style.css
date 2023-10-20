@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header{
+    text-align: center;
+    margin-top: 0.7rem;
+    margin-bottom: -2rem;
+    font-family: 'Neoncity';
+  }
+  .titulo{
+    position: relative;
+    background-color: #c7affb;
+    width: 30%;
+    text-align: center;
+    margin-left: 34rem;
+    left: 5rem;
+    right: 5rem;
+    align-items: center;
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+  }
+  body {
+      height: 100%;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      background-image: url("/assets/images/images/completo.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  main {
+      display: flex;
+      flex-direction: column;
+      font-family: 'Righteous', cursive;
+      margin-top: 40px;
+      align-items: center;
+  }
+  .Autores {
+    display: flex;
+    height: 430px;
+    width: 1470px;
+    background-color: #ffff;
+    border: 2px solid #FFFFFF;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    border-color: #999
+  }
+  .Autor{
+    display: block;
+    height: 200px;
+    width: 1000px;
+    
+  }
+  .info-autor {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  img {
+    height: 140px;
+    width: 140px;
+  }
+  .img-autor-lobato{
+    height: 170px;
+    width: 170px;
+  }
+  .quote {
+    padding-left: 5px;
+    padding-top: 20px;
+    position: relative;
+    font-family: 'Righteous', cursive;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+  }
+  .quote:before {
+    content: '\201C'; /* Código Unicode para o símbolo de aspas duplas */
+    position: absolute;
+    left: 2px;
+    top: 6px;
+    font-size: 30px;
+    line-height: 1;
+  }
+  cite {
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+    font-family: 'Righteous', cursive;
+  }
+  .area {
+    margin: 10px;
+    
+    display: block;
+    height: 200px;
+    width: 400px;
+    /*border: 2px solid #000;*/
+  }
+  
+  .Frases-Autores {
+    height: 440px;
+    width: 1000px;
+    display: grid;
+    background-color: #ffff;
+    border: 5px solid #FFFFFF;
+    border-radius: 15px;
+    text-align: center;
+  }
+  .question {
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  .question-conteiner{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .neutralArea {
+      width: 100%;
+      display: grid;
+      gap: 10px;
+      align-content: center;
+  }
+  .item {
+    background-color: #c7affb;
+    color: #000;
+    font-size: 18px;
+    border: none;
+    border-radius: 16px;
+    height: 51px;
+    padding: 4px;
+    transition: filter 0.2s;
+  }
+  .item-escolhido {
+    background-color: #c7affb;
+    color: #000;
+    font-size: 14px;
+    border: none;
+    border-radius: 16px;
+    height: 53px;
+    padding: 4px;
+    margin-bottom: 1rem;
+    transition: filter 0.2s;
+  }
+  
+  .item:hover {
+    filter: brightness(0.9);
+  
+  }
+  .hover {
+    background-color: #c7affb;
+  
+  }
+  
+  @font-face {
+    font-family: 'Neoncity';
+    src: url('fontes/SuperMarioBros-ov7d.woff2') format('woff2'),
+         url('fontes/SuperMarioBros-ov7d.woff') format('woff'),
+         url('fontes/SuperMarioBros-ov7d.ttf') format('truetype');
+    
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 2px 2px;
+    width: 10rem;
+    height: 2rem;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #c7affb;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 2px #999;
+  }
+  
+  .button:hover {background-color: #c7affb}
+  
+  .button:active {
+    background-color: #c7affb;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  @media (max-width:4800px) {
+ 
+    main {
+      margin-top: 5px;
+  }
+    .Autores {
+      height: 360px;
+      width: 1220px;
+    }
+    .Autor{
+      width: 400px;
+      font-size: 15px;
+    }
+    .info-autor {
+      padding-bottom: 0;
+      padding-right: 5px;
+    }
+    img {
+      height: 100px;
+      width: 100px;
+    }
+    .img-autor-lobato{
+      height: 135px;
+      width: 135px;
+    }
+    .quote {
+      font-size: 17px;
+    }
+    .quote-cora {
+      font-size: 16px;
+      margin-top: 1rem;
+      text-align: center;
+    }
+    .Frases-Autores {
+      height: 420px;
+      width: 1000px;
+      font-size: 16px;
+    }
+    .question {
+      font-size: 17px;
+    }
+    .neutralArea {
+      width: 990px;
+      font-size: 16px;
+  }
+  .area {
+    margin: 0;
+    height: 150px;
+    width: 390px;
+  }
+  .item {
+    font-size: 20px;
+    border-radius: 16px;
+    
+  }
+  header{
+    display: none;
+  }
+  .item-escolhido {
+    margin-top: 10px;
+    font-size: 14px;
+    height: 65px;
+  } 
+  }
