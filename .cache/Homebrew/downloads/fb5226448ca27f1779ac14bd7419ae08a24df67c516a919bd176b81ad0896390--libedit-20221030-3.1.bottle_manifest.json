@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:345ee3fe9f76401ae3f2cd53834757e7fce786d6efff8b8a5dda3c772a70bf95",
+      "size": 1938,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.big_sur",
+        "sh.brew.bottle.digest": "ce66e3881e8ef465281639cd032707ef9bed833309b2879db34e1a6318fda580",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.7-32-g31758ea\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"penryn\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:98f5024977ec49fe64a64b6e9d77c8f23312268d99ca4b11bb079b73a329fdf2",
+      "size": 2095,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "5.15.0-1022-azure"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "bee1f6bfb90dd3c9b26ce4732e04025a468fe2fa29d63049cb0aa2a888e610d2",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.7-32-g31758ea\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"ncurses\",\"version\":\"6.3\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"5.15.0-1022-azure\",\"cpu_family\":\"haswell\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:a57088deffc63a175b6ca8dd0fccd6e85274655568cbc1d946e9be9a6ecca70e",
+      "size": 1970,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.arm64_monterey",
+        "sh.brew.bottle.digest": "31b5d595de266712ea96a3246683f4781116f58578820241c3810d1605a4e55c",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.7-32-g31758ea\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:e90ed631abc5ee4e86e8e97f316b626c49c00557abd176f48fda1575c0515eb9",
+      "size": 1969,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.arm64_big_sur",
+        "sh.brew.bottle.digest": "a3a10d198a10b033e2ea3d4cc08b7a61118587618b38861b55365226e955aa0e",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.7-32-g31758ea\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:8c6ddf1fe85d87e3a202a461fbb9aa82a72747f133241c1a0f6541ed5f598872",
+      "size": 1942,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 10.15.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.catalina",
+        "sh.brew.bottle.digest": "13d64d1c3f21a1e0299a53f2d636d5cd60d5d62df53e6dcb2ee3c8cade3b53b2",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.7-32-g31758ea\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 10.15.7\",\"cpu_family\":\"penryn\",\"xcode\":\"12.4\",\"clt\":\"12.4.0.0.1.1610135815\",\"preferred_perl\":\"5.18\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:e81f23f4a7f230daa7b8f978c509810e1df8e79dfab843f9e81348ec23ff69e3",
+      "size": 1939,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.monterey",
+        "sh.brew.bottle.digest": "4f0f05f70b2d444915583eb0d54006663e42a38c5be0a9f9c9ce6510a0934bed",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.7-32-g31758ea\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:561b0182b871154dc2a8a2d313ec2810230da5a934e7835050c5346e5112eef5",
+      "size": 1950,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.arm64_ventura",
+        "sh.brew.bottle.digest": "b7b13324abc4ddd0eac78fb9cb202ef9eccb4044ae719203cd933754c3588a85",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.8-16-ge7b213c\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13\",\"cpu_family\":\"dunno\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:f1a462e3869f2d71df8d5bce620be6d4af05ca32f79a7615b3b3d827eaed16db",
+      "size": 1937,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.0"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "20221030-3.1.ventura",
+        "sh.brew.bottle.digest": "0eba9829c27aae6bd7b331d27200c34efba436d8cb6643ca549d4b0067db6723",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.11-41-g8b452d5\",\"changed_files\":[\"lib/pkgconfig/libedit.pc\"],\"source_modified_time\":1667108832,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.0\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2022-10-30",
+    "org.opencontainers.image.description": "BSD-style licensed readline alternative",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libedit",
+    "org.opencontainers.image.license": "BSD-3-Clause",
+    "org.opencontainers.image.ref.name": "20221030-3.1",
+    "org.opencontainers.image.revision": "2c2a4e67970428137a0a3ba50a2cfe8194d45bf0",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/2c2a4e67970428137a0a3ba50a2cfe8194d45bf0/Formula/libedit.rb",
+    "org.opencontainers.image.title": "libedit",
+    "org.opencontainers.image.url": "https://thrysoee.dk/editline/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "20221030-3.1"
+  }
+}

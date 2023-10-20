@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:fd1df5607c4ceeb796fcbfa4a8c96029a2aff0c0e2c4ac102c65c43e0a30fad7",
+      "size": 1924,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2023-01-10.all",
+        "sh.brew.bottle.digest": "11fe9d0a98a2ac454fa1db95762a697c3340f46560ff27e5e9db8fdeb003f17e",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-12-gdbf0e28\",\"changed_files\":[],\"source_modified_time\":1673323926,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-01-10",
+    "org.opencontainers.image.description": "Mozilla CA certificate store",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/ca-certificates",
+    "org.opencontainers.image.license": "MPL-2.0",
+    "org.opencontainers.image.ref.name": "2023-01-10",
+    "org.opencontainers.image.revision": "1a02a33c11a6c8c7a4ff7175c0c2e54e75a52711",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/1a02a33c11a6c8c7a4ff7175c0c2e54e75a52711/Formula/ca-certificates.rb",
+    "org.opencontainers.image.title": "ca-certificates",
+    "org.opencontainers.image.url": "https://curl.se/docs/caextract.html",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "2023-01-10"
+  }
+}

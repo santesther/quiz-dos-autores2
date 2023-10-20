@@ -1,0 +1,11 @@
+2023-04-26 15:54:37 -0300
+
+/home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/bin/python3.11
+-m
+ensurepip
+
+Looking in links: /tmp/tmpt8h_8zpq
+Processing /tmp/tmpt8h_8zpq/setuptools-67.6.1-py3-none-any.whl
+Processing /tmp/tmpt8h_8zpq/pip-23.0.1-py3-none-any.whl
+Installing collected packages: setuptools, pip
+Successfully installed pip-23.0.1 setuptools-67.6.1

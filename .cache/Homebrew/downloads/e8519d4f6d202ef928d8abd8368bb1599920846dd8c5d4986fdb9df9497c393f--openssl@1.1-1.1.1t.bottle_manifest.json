@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:453a8fa2ebc22956521c3a60346b50b02fb32c97c561af72d01254cb031beb7e",
+      "size": 2106,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.arm64_big_sur",
+        "sh.brew.bottle.digest": "f80836e1ee1be8f531665451699061dcb02c7e4d10da90330c83d47ee2af88e5",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\"],\"source_modified_time\":1675777025,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:3932a6de22ff3805530393b97b10e0a0811b0147c36973a7cb2ad453a8827311",
+      "size": 2087,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.arm64_ventura",
+        "sh.brew.bottle.digest": "e1e08ddd93298ef8776b202e4b2f86fc519bf27a72f7cfb082b69ff2868a0175",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\"],\"source_modified_time\":1675777025,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13\",\"cpu_family\":\"dunno\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:5e53952b847926c1835eea94ef3230039886527ef0caac30bdae9bc3146fd60c",
+      "size": 2403,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "5.15.0-1026-gcp"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "8844b2e735dd6e8bc1395eda1a123c136f90cb8985fcec6a7ae6815b5aad971b",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\",\"libexec/lib/perl5/x86_64-linux-gnu-thread-multi/auto/ExtUtils/MakeMaker/.packlist\",\"libexec/lib/perl5/x86_64-linux-gnu-thread-multi/auto/Test/Harness/.packlist\",\"libexec/lib/perl5/x86_64-linux-gnu-thread-multi/auto/Test/Simple/.packlist\"],\"source_modified_time\":1675777025,\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"5.15.0-1026-gcp\",\"cpu_family\":\"broadwell\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:54ca9cc0b244097bfa8d76def38deabd192936d50969a11f4ac8477904af5c17",
+      "size": 2107,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.arm64_monterey",
+        "sh.brew.bottle.digest": "524ec08838d2826793e26b2ed084efdefec931e1aaa6dea01455aa77409b86c8",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\"],\"source_modified_time\":1675777025,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d5437ef51dee282ffd12c7f739aec57ad028d8245f47ad44b8acc27a93b3ec10",
+      "size": 2114,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.big_sur",
+        "sh.brew.bottle.digest": "c357ccf7ece01905099a0cde58a2bbfb14141edb3aafed7d20391ed6bf726381",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"CHANGES\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\",\"share/man/man1/ca.1ssl\"],\"source_modified_time\":1675777025,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"penryn\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:0e4ec2e4ddfc195bfa7ab6dfce042f5dc35c6e9e73276d27c64781ff93875772",
+      "size": 2115,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.monterey",
+        "sh.brew.bottle.digest": "43c00851b8447bd5d1fba3e8140b74ca3d4a5b19343e64ec50bafae376f95454",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"CHANGES\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\",\"share/man/man1/ca.1ssl\"],\"source_modified_time\":1675777025,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:430db99086931fe21b5cb27b17435e00ab1ea0942c341cb16abd0a22fd19e306",
+      "size": 2112,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.0"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1t.ventura",
+        "sh.brew.bottle.digest": "97676d1a616421e472c46fc7930fa4a9ced514cabc1d66ae0fb8597be09ac802",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.21-5-gb761344\",\"changed_files\":[\"bin/c_rehash\",\"CHANGES\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\",\"share/man/man1/ca.1ssl\"],\"source_modified_time\":1675777025,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.0\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-02-07",
+    "org.opencontainers.image.description": "Cryptography and SSL/TLS Toolkit",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/openssl@1.1",
+    "org.opencontainers.image.license": "OpenSSL",
+    "org.opencontainers.image.ref.name": "1.1.1t",
+    "org.opencontainers.image.revision": "ce9b9b9921b145efe381f56639a20ca3ec0bf2fd",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/ce9b9b9921b145efe381f56639a20ca3ec0bf2fd/Formula/openssl@1.1.rb",
+    "org.opencontainers.image.title": "openssl@1.1",
+    "org.opencontainers.image.url": "https://openssl.org/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "1.1.1t"
+  }
+}

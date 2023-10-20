@@ -1,0 +1,27 @@
+2023-04-26 15:54:43 -0300
+
+/home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/bin/python3.11
+-m
+pip
+install
+-v
+--no-deps
+--no-index
+--upgrade
+--isolated
+--target=/home/linuxbrew/.linuxbrew/lib/python3.11/site-packages
+/home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/lib/python3.11/ensurepip/_bundled/setuptools-67.6.1-py3-none-any.whl
+/home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/lib/python3.11/ensurepip/_bundled/pip-23.0.1-py3-none-any.whl
+/home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/libexec/wheel-0.40.0-py3-none-any.whl
+
+Using pip 23.0.1 from /home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/lib/python3.11/site-packages/pip (python 3.11)
+Processing /home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/lib/python3.11/ensurepip/_bundled/setuptools-67.6.1-py3-none-any.whl
+Processing /home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/lib/python3.11/ensurepip/_bundled/pip-23.0.1-py3-none-any.whl
+Processing /home/linuxbrew/.linuxbrew/Cellar/python@3.11/3.11.3/libexec/wheel-0.40.0-py3-none-any.whl
+Installing collected packages: wheel, setuptools, pip
+  Creating /tmp/pip-target-_datggxp/bin
+  changing mode of /tmp/pip-target-_datggxp/bin/wheel to 775
+  changing mode of /tmp/pip-target-_datggxp/bin/pip to 775
+  changing mode of /tmp/pip-target-_datggxp/bin/pip3 to 775
+  changing mode of /tmp/pip-target-_datggxp/bin/pip3.11 to 775
+Successfully installed pip-23.0.1 setuptools-67.6.1 wheel-0.40.0

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:bf9c78e725c3fc183f4eeba46c2c8fd37c83f41aa061e3bb801268f5fa758aec",
+      "size": 2042,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.monterey",
+        "sh.brew.bottle.digest": "ec1d2f2fe462d2cbe9775e48d5c4231af2b265f946de3902e0e042619c8ac205",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d70ed9438f7113a96cc05977f76ed126f974ee67216188263d5d46ec47a49410",
+      "size": 2041,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.big_sur",
+        "sh.brew.bottle.digest": "899d9a8e7ab10896afad66a3d3c9053a5a10ae290b23197b1210c03bc0af6e1d",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"penryn\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:f28e468d53bbfff6e995240412543b0a40f866b437983a0e7ec7086266085f8f",
+      "size": 2072,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.arm64_big_sur",
+        "sh.brew.bottle.digest": "19575d7aa6e4451271cf20a9c455fc7f4a05103573879fa83d7b4625cffddcf5",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:cd0f60d8abf6a74b265455725ed785f0f85e334df682c4770c2b996c362d195f",
+      "size": 2039,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.0"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.ventura",
+        "sh.brew.bottle.digest": "ecb91e87e3e4d075e3e1392b8ec7dc6774bec47f4b534d318f2ec259052b10e4",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.0\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:0ca4aab572fa219b07b40456840e9186e9bcf1812e2c634382e8aa7ebebec3bd",
+      "size": 2143,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "5.15.0-1026-gcp"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "880ba1731d14d66d48594a7ca1532b12ec50c1e2e3b6c7cd96cfaf05bab04d2f",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-11\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"5.15.0-1026-gcp\",\"cpu_family\":\"zen\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:68f4d7448f9afc78ab19eaff9722459531b4fbb34dc4257b6c57febc83b83c88",
+      "size": 2053,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.arm64_ventura",
+        "sh.brew.bottle.digest": "0666e999875e81eadd009af55007c95cda37c7234acc12eb85cf42177984c699",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13\",\"cpu_family\":\"dunno\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:1acc086c140ecd0de0b9230042ef6987641b59fd8e1bbc0b6703120a90f48354",
+      "size": 2073,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "72.1.arm64_monterey",
+        "sh.brew.bottle.digest": "90c50fe2cbf8bedcae43886caaa096ab6fc54f893be192912220ba1ec48e634f",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.18-36-g5babb49\",\"changed_files\":[\"bin/icu-config\",\"lib/icu/72.1/Makefile.inc\",\"lib/icu/72.1/pkgdata.inc\",\"lib/pkgconfig/icu-i18n.pc\",\"lib/pkgconfig/icu-io.pc\",\"lib/pkgconfig/icu-uc.pc\"],\"source_modified_time\":1666140809,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-01-11",
+    "org.opencontainers.image.description": "C/C++ and Java libraries for Unicode and globalization",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/icu4c",
+    "org.opencontainers.image.license": "ICU",
+    "org.opencontainers.image.ref.name": "72.1",
+    "org.opencontainers.image.revision": "4369d880147907dc00193223a206951a8c4e0552",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/4369d880147907dc00193223a206951a8c4e0552/Formula/icu4c.rb",
+    "org.opencontainers.image.title": "icu4c",
+    "org.opencontainers.image.url": "https://icu.unicode.org/home",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "72.1"
+  }
+}

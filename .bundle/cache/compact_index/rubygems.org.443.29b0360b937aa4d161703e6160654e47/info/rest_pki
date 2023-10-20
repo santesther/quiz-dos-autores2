@@ -1,0 +1,3 @@
+---
+1.0.0 multi_json:~> 1.12,rest-client:~> 2.0|checksum:972eddc695b4fdf8f6f1dc8387953877f8a4f87b320a079eb5bebb9f6d9da6b2
+1.1.0 multi_json:~> 1.12,rest-client:~> 2.0|checksum:f2a3f4956941b8f1cb280a216d9d0cb9dcb19c95efe17f1079ce724dfc7d60d3

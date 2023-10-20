@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:24cbb3c5f4e9933e3ac902669a1b5a092355aace9c375f7d39249e52e806f597",
+      "size": 1878,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 10.13.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.high_sierra",
+        "sh.brew.bottle.digest": "126ecc002d37d167252743eb6ff5db19bb6aa4584ab3f731bd7876e438fc6dab",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.4.13-277-gff8d30d\",\"changed_files\":[\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":null,\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 10.13.6\",\"cpu_family\":\"penryn\",\"xcode\":\"10.1\",\"clt\":\"10.1.0.0.1.1539992718\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:39ee904af05f20cc279ca4612104ad14ac017c34b0f2471d8b4ae5c154c772ce",
+      "size": 1845,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.0.1"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.big_sur",
+        "sh.brew.bottle.digest": "9d3009fd246d0f6cf9fd11d0a3bd388f6c043c75fa302decf0dd935163fb0f4b",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.5.10-20-gfd15352\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.0.1\",\"cpu_family\":\"penryn\",\"xcode\":\"12.2\",\"clt\":\"12.2.0.0.1.1604076827\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:173883e845e6604cf243b607acda0d4fc0f772ac5dd1be58d60ba2226756dfae",
+      "size": 1865,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 10.14.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.mojave",
+        "sh.brew.bottle.digest": "d121eaa3e670d5ad972514a4cc000326249694c8b9691013e28b8dd52b87410d",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.4.13-277-gff8d30d\",\"changed_files\":[\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":null,\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 10.14.6\",\"cpu_family\":\"penryn\",\"xcode\":\"11.3.1\",\"clt\":\"10.3.0.0.1.1562985497\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:f93a2f2feba3beb69dbb43497d9c1a357adee39b45a28ba54fb797a58c68cc43",
+      "size": 1869,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 10.15.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.catalina",
+        "sh.brew.bottle.digest": "a382d95787cc2a5742a1d713f939bbc91ca6e097aee7f49f95cc111dca9fa9d7",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.4.13-277-gff8d30d\",\"changed_files\":[\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":null,\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 10.15.5\",\"cpu_family\":\"penryn\",\"xcode\":\"11.5\",\"clt\":\"11.5.0.0.1.1588476445\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:9a1c3d01a1d4adaebfc96fb11b16cd79b97958515ea84b35be686672f88bf848",
+      "size": 1871,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11.1"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.arm64_big_sur",
+        "sh.brew.bottle.digest": "bcd00b6f423ec35f98aec55bc2c1cf433b6e70e915cdf04dd2c3a3707f1ce341",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.7.0-19-gfc305cc\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.1\",\"cpu_family\":\"arm_vortex_tempest\",\"xcode\":\"12.3\",\"clt\":\"12.3.0.0.1.1607026830\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:6b21800b6654cd7ac3468ef68f7981577dadb2fc5a9d8d959cdca5d4fe9350a9",
+      "size": 1953,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "97756cdd4ee7ca03251307eafdb3dff7be3f070a8c0fdf385e87e7ad4a1068de",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.2.0-126-g83aa3ff\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:8906dd8a11488ed9217077d166a7bfd5671104303bcf23499bc4b366b6b10255",
+      "size": 1908,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.0"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.arm64_monterey",
+        "sh.brew.bottle.digest": "5e9bddd862bda5b950307710430f3adf65486554d12e29629f67df8a0c5b881c",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.2.17-96-g8fa2d99\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.0\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.1\",\"clt\":\"13.1.0.0.1.1633545042\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:fb3016c4375af461e530e1af08b649462d3b09eb63fa0f05a7e5dc3fe45da3b3",
+      "size": 1873,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.monterey",
+        "sh.brew.bottle.digest": "985ce69f1aece701dc8103ef8775d57deaf99936782339583e16177ceb1259f3",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.2.17-96-g8fa2d99\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12\",\"cpu_family\":\"penryn\",\"xcode\":\"13.1\",\"clt\":\"13.1.0.0.1.1633545042\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:213b3faf0e37153665856f45fcc6472535ff3690ca47bb0498e199164fd67999",
+      "size": 1885,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.arm64_ventura",
+        "sh.brew.bottle.digest": "dda0779953c24b98703ae950195fdd7f5ae6dbd697e026cb65520d13ea8b1258",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.6-34-gfaa9950\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13\",\"cpu_family\":\"dunno\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1665256668\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:e7def4d5767115601d99081be1c3346b74348cc8fb9b89debcf28def93b7926f",
+      "size": 1860,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13.0"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.9.ventura",
+        "sh.brew.bottle.digest": "ed4f61a9dc166cb1241e6b0a890298789eb564bfac1b4438ebe8ddf3d2632662",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.6.11\",\"changed_files\":[\"lib/pkgconfig/libbrotlicommon.pc\",\"lib/pkgconfig/libbrotlidec.pc\",\"lib/pkgconfig/libbrotlienc.pc\"],\"source_modified_time\":1598537575,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13.0\",\"cpu_family\":\"penryn\",\"xcode\":\"14.1\",\"clt\":\"14.1.0.0.1.1666437224\",\"preferred_perl\":\"5.30\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-06",
+    "org.opencontainers.image.description": "Generic-purpose lossless compression algorithm by Google",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/brotli",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "1.0.9",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/homebrew-core/blob/HEAD/Formula/brotli.rb",
+    "org.opencontainers.image.title": "brotli",
+    "org.opencontainers.image.url": "https://github.com/google/brotli",
+    "org.opencontainers.image.vendor": "Homebrew",
+    "org.opencontainers.image.version": "1.0.9"
+  }
+}

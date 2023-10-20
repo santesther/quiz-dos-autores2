@@ -1,0 +1,5 @@
+---
+0.1.0 hotwire-stimulus-rails:>= 0,rails:>= 6.0.0,turbo-rails:>= 0|checksum:3d8307da49f3a68a2060cd4771ed96c3a9a51d25f565f97d845c5d4e365ea190
+0.1.1 rails:>= 6.0.0,stimulus-rails:>= 0,turbo-rails:>= 0|checksum:fb1d722edbfce897e6e8b0bdba44f2d962e8a4700ec0b725002ef31160ac2a1f
+0.1.2 rails:>= 6.0.0,stimulus-rails:>= 0,turbo-rails:>= 0|checksum:fb61f8535acbe86006d78e4a830ba53ac48b7b14d5c4a33dc30d28cc1fac1c83
+0.1.3 rails:>= 6.0.0,stimulus-rails:>= 0,turbo-rails:>= 0|checksum:a4ed7b6bab50f91ce5a3bfaf1c721e6cef8a9ec8f6974c290e2862a280d08d8d

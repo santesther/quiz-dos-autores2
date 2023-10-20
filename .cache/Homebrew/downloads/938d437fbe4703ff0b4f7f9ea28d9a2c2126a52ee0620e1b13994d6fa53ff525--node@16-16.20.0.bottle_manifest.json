@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ea50196e16812118614836710ceaa2dfc99aaceb0fdef58e6533a1ad8f344c53",
+      "size": 2486,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.arm64_monterey",
+        "sh.brew.bottle.digest": "fd6acf86e43d8eb1b179921690400d3274d5790153002941210e4fbd60f74d51",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"include/node/config.gypi\"],\"source_modified_time\":1680038062,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:28897b437224efbceaf16b7e3fcc6d7203b8fe9ce9b08d5ecfce4eb6b2f2b558",
+      "size": 2481,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 13"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.arm64_ventura",
+        "sh.brew.bottle.digest": "9a935f6418abfa0087bdbbe0cce97f7e2b238918345cdd46b6d6bc77ef1ab5bd",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"include/node/config.gypi\"],\"source_modified_time\":1680038062,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13\",\"cpu_family\":\"dunno\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:e9cac963fd74d5c7f055a2362152c6a94b331e5492133021dc2992b82132557e",
+      "size": 3226,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 12.6"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.monterey",
+        "sh.brew.bottle.digest": "d4e31dbedd8ab1d42e9b98fa95a570a75fc40118b6bfa40c8c98d442e2e24bd4",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"lib/node_modules/npm/lib/utils/completion.sh\",\"include/node/common.gypi\",\"include/node/config.gypi\",\"lib/node_modules/npm/lib/utils/config/definitions.js\",\"lib/node_modules/npm/man/man1/npm-prefix.1\",\"lib/node_modules/npm/man/man5/folders.5\",\"lib/node_modules/npm/man/man5/npm-global.5\",\"lib/node_modules/npm/man/man7/config.7\",\"lib/node_modules/npm/man/man7/removal.7\",\"lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js\",\"lib/node_modules/npm/node_modules/@npmcli/config/lib/index.js\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/xcode.py\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py\"],\"source_modified_time\":1680038062,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 12.6\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:db19ef3854ef81475450c0020f649cc8620f94b2992e28876966bbf9aa7905a3",
+      "size": 2502,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.arm64_big_sur",
+        "sh.brew.bottle.digest": "d3d4474f90828c287fd830977d996ffb3b47480e1a051651cebf5bf16351f7c1",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"include/node/config.gypi\"],\"source_modified_time\":1680038062,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"arm_firestorm_icestorm\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:62d86f6e07b37e1dee7c0aa1adaf01783d70be9c6667917bc6c80981ed67f2d5",
+      "size": 3221,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 13"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.ventura",
+        "sh.brew.bottle.digest": "4ed39f7d3d42dd323d975cd09ff90413318964360960bafc0914a50997347bf1",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"lib/node_modules/npm/lib/utils/completion.sh\",\"include/node/common.gypi\",\"include/node/config.gypi\",\"lib/node_modules/npm/lib/utils/config/definitions.js\",\"lib/node_modules/npm/man/man1/npm-prefix.1\",\"lib/node_modules/npm/man/man5/folders.5\",\"lib/node_modules/npm/man/man5/npm-global.5\",\"lib/node_modules/npm/man/man7/config.7\",\"lib/node_modules/npm/man/man7/removal.7\",\"lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js\",\"lib/node_modules/npm/node_modules/@npmcli/config/lib/index.js\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/xcode.py\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py\"],\"source_modified_time\":1680038062,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 13\",\"cpu_family\":\"penryn\",\"xcode\":\"14.2\",\"clt\":\"14.2.0.0.1.1668646533\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:6e2658a9e785a8cab788ed16b02552c3b43c37bb8101cbe48515e0128286e487",
+      "size": 3225,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 11.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.big_sur",
+        "sh.brew.bottle.digest": "15cf55cecbfdfaf3f9070a9d7a829a5429e5c5b45eeab28bedf211f4543b92f6",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"lib/node_modules/npm/lib/utils/completion.sh\",\"include/node/common.gypi\",\"include/node/config.gypi\",\"lib/node_modules/npm/lib/utils/config/definitions.js\",\"lib/node_modules/npm/man/man1/npm-prefix.1\",\"lib/node_modules/npm/man/man5/folders.5\",\"lib/node_modules/npm/man/man5/npm-global.5\",\"lib/node_modules/npm/man/man7/config.7\",\"lib/node_modules/npm/man/man7/removal.7\",\"lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js\",\"lib/node_modules/npm/node_modules/@npmcli/config/lib/index.js\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator/xcode.py\",\"lib/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py\"],\"source_modified_time\":1680038062,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 11.7\",\"cpu_family\":\"penryn\",\"xcode\":\"13.2.1\",\"clt\":\"13.2.0.0.1.1638488800\",\"preferred_perl\":\"5.30\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:23b116374227760fb380a64989e4acd4c177b883bf9531e71b726eae22f0c227",
+      "size": 3906,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "5.15.0-1034-azure"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "16.20.0.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "1b7ae0fd85fa0741ad7cc38a5c64463db526f78002973141814aad62da14f6bd",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.tab": "{\"homebrew_version\":\"4.0.10-64-gf4ee196\",\"changed_files\":[\"include/node/config.gypi\"],\"source_modified_time\":1680038062,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-11\",\"runtime_dependencies\":[{\"full_name\":\"brotli\",\"version\":\"1.0.9\",\"declared_directly\":true},{\"full_name\":\"c-ares\",\"version\":\"1.19.0\",\"declared_directly\":true},{\"full_name\":\"icu4c\",\"version\":\"72.1\",\"declared_directly\":true},{\"full_name\":\"libnghttp2\",\"version\":\"1.52.0\",\"declared_directly\":true},{\"full_name\":\"libuv\",\"version\":\"1.44.2\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2023-01-10\",\"declared_directly\":false},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1t\",\"declared_directly\":true},{\"full_name\":\"mpdecimal\",\"version\":\"2.5.1\",\"declared_directly\":false},{\"full_name\":\"ncurses\",\"version\":\"6.4\",\"declared_directly\":false},{\"full_name\":\"readline\",\"version\":\"8.2.1\",\"declared_directly\":false},{\"full_name\":\"zlib\",\"version\":\"1.2.13\",\"declared_directly\":true},{\"full_name\":\"sqlite\",\"version\":\"3.41.2\",\"declared_directly\":false},{\"full_name\":\"xz\",\"version\":\"5.4.2\",\"declared_directly\":false},{\"full_name\":\"bzip2\",\"version\":\"1.0.8\",\"declared_directly\":false},{\"full_name\":\"expat\",\"version\":\"2.5.0\",\"declared_directly\":false},{\"full_name\":\"libedit\",\"version\":\"20221030-3.1\",\"declared_directly\":false},{\"full_name\":\"libffi\",\"version\":\"3.4.4\",\"declared_directly\":false},{\"full_name\":\"libxcrypt\",\"version\":\"4.4.33\",\"declared_directly\":false},{\"full_name\":\"unzip\",\"version\":\"6.0\",\"declared_directly\":false},{\"full_name\":\"berkeley-db@5\",\"version\":\"5.3.28\",\"declared_directly\":false},{\"full_name\":\"krb5\",\"version\":\"1.20.1\",\"declared_directly\":false},{\"full_name\":\"libtirpc\",\"version\":\"1.3.3\",\"declared_directly\":false},{\"full_name\":\"libnsl\",\"version\":\"2.0.0\",\"declared_directly\":false},{\"full_name\":\"python@3.11\",\"version\":\"3.11.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"5.15.0-1034-azure\",\"cpu_family\":\"icelake\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2023-03-29",
+    "org.opencontainers.image.description": "Platform built on V8 to build network applications",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/node@16",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "16.20.0",
+    "org.opencontainers.image.revision": "e8b75cf4e34e1694ca762726485275aa4d00ba35",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/e8b75cf4e34e1694ca762726485275aa4d00ba35/Formula/node@16.rb",
+    "org.opencontainers.image.title": "node@16",
+    "org.opencontainers.image.url": "https://nodejs.org/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "16.20.0"
+  }
+}
