@@ -78,9 +78,9 @@ let areas = {
   
   function verificaFrase(area, classeItem) {
     const frasesPermitidas = {
-      a:['frase1', 'frase2', 'frase4', 'frase5'],
-      b:['frase1', 'frase2', 'frase4', 'frase5'],
-      c:['frase1', 'frase2', 'frase4', 'frase5'],
+      a:['frase1', 'frase3', 'frase4', 'frase6'],
+      b:['frase1', 'frase3', 'frase4', 'frase6'],
+      c:['frase1', 'frase3', 'frase4', 'frase6'],
     };
   
     if(frasesPermitidas[area].includes(classeItem)) {
