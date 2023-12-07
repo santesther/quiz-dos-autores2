@@ -1,0 +1,108 @@
+2023-03-08T23:11:25.412Z Warning: update with "sudo apt update && sudo apt install heroku"
+2023-03-08T23:11:25.412Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2023-03-08T23:11:25.412Z     at UpdateCommand.warn (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:57:16)
+2023-03-08T23:11:25.412Z     at UpdateCommand.skipUpdate (/usr/lib/heroku/node_modules/@oclif/plugin-update/lib/commands/update.js:162:22)
+2023-03-08T23:11:25.412Z     at UpdateCommand.run (/usr/lib/heroku/node_modules/@oclif/plugin-update/lib/commands/update.js:50:39)
+2023-03-08T23:11:25.412Z     at async UpdateCommand._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2023-03-08T23:11:25.412Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:173:24)
+2023-03-08T23:11:25.412Z     at async Main.run (/usr/lib/heroku/node_modules/@oclif/command/lib/main.js:27:9)
+2023-03-08T23:11:25.412Z     at async Main._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2023/03/08 23:24:17 Error: Expected response to be successful, got 422
+    at Request.handleFailure [as _handleFailure] (/usr/lib/heroku/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/usr/lib/heroku/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /usr/lib/heroku/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2023/03/08 23:24:17 {"id":"verification_required","message":"To create an app, verify your account by adding payment information. Verify now at https://heroku.com/verify Learn more at https://devcenter.heroku.com/articles/account-verification "}
+2023/03/09 19:20:36 Error: Error opening web browser.
+Error: Exited with code 4
+
+Manually visit https://mysterious-reaches-84041.herokuapp.com/ in your browser.
+    at /usr/lib/heroku/node_modules/heroku-cli-util/lib/open.js:12:16
+    at ChildProcess.<anonymous> (/usr/lib/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:520:26)
+    at ChildProcess.emit (events.js:400:28)
+    at maybeClose (internal/child_process.js:1058:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:293:5)
+2023-03-10T16:46:01.925Z Warning: --logs is not a heroku command.
+2023-03-10T16:46:01.925Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2023-03-10T16:46:01.925Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:136:30)
+2023-03-10T16:46:01.925Z     at Object.hook (/usr/lib/heroku/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2023-03-10T16:46:01.925Z     at async /usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:151:21
+2023-03-10T16:46:01.925Z     at async Promise.all (index 0)
+2023-03-10T16:46:01.925Z     at async Promise.all (index 33)
+2023-03-10T16:46:01.925Z     at async Config.runHook (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:161:9)
+2023-03-10T16:46:01.925Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:168:13)
+2023-03-10T16:46:01.925Z     at async Main.run (/usr/lib/heroku/node_modules/@oclif/command/lib/main.js:27:9)
+2023-03-10T16:46:01.925Z     at async Main._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2023-03-10T16:46:13.878Z Warning: --cli is not a heroku command.
+2023-03-10T16:46:13.878Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2023-03-10T16:46:13.878Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:136:30)
+2023-03-10T16:46:13.878Z     at Object.hook (/usr/lib/heroku/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2023-03-10T16:46:13.878Z     at async /usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:151:21
+2023-03-10T16:46:13.878Z     at async Promise.all (index 0)
+2023-03-10T16:46:13.878Z     at async Promise.all (index 33)
+2023-03-10T16:46:13.878Z     at async Config.runHook (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:161:9)
+2023-03-10T16:46:13.878Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:168:13)
+2023-03-10T16:46:13.878Z     at async Main.run (/usr/lib/heroku/node_modules/@oclif/command/lib/main.js:27:9)
+2023-03-10T16:46:13.878Z     at async Main._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2023-03-13T17:54:25.822Z Warning: --tails is not a heroku command.
+2023-03-13T17:54:25.822Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2023-03-13T17:54:25.822Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:136:30)
+2023-03-13T17:54:25.822Z     at Object.hook (/usr/lib/heroku/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2023-03-13T17:54:25.822Z     at async /usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:151:21
+2023-03-13T17:54:25.822Z     at async Promise.all (index 0)
+2023-03-13T17:54:25.822Z     at async Promise.all (index 33)
+2023-03-13T17:54:25.822Z     at async Config.runHook (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:161:9)
+2023-03-13T17:54:25.822Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:168:13)
+2023-03-13T17:54:25.822Z     at async Main.run (/usr/lib/heroku/node_modules/@oclif/command/lib/main.js:27:9)
+2023-03-13T17:54:25.822Z     at async Main._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2023-03-13T17:55:33.802Z Warning: -t is not a heroku command.
+2023-03-13T17:55:33.802Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/errors/lib/index.js:49:15)
+2023-03-13T17:55:33.802Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:136:30)
+2023-03-13T17:55:33.802Z     at Object.hook (/usr/lib/heroku/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2023-03-13T17:55:33.802Z     at async /usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:151:21
+2023-03-13T17:55:33.802Z     at async Promise.all (index 0)
+2023-03-13T17:55:33.802Z     at async Promise.all (index 33)
+2023-03-13T17:55:33.802Z     at async Config.runHook (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:161:9)
+2023-03-13T17:55:33.802Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/command/node_modules/@oclif/config/lib/config.js:168:13)
+2023-03-13T17:55:33.802Z     at async Main.run (/usr/lib/heroku/node_modules/@oclif/command/lib/main.js:27:9)
+2023-03-13T17:55:33.802Z     at async Main._run (/usr/lib/heroku/node_modules/@oclif/command/lib/command.js:43:20)
+2023/03/29 21:38:22 Error: Error opening web browser.
+Error: Exited with code 4
+
+Manually visit https://mysterious-reaches-84041.herokuapp.com/ in your browser.
+    at /usr/lib/heroku/node_modules/heroku-cli-util/lib/open.js:12:16
+    at ChildProcess.<anonymous> (/usr/lib/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:520:26)
+    at ChildProcess.emit (events.js:400:28)
+    at maybeClose (internal/child_process.js:1058:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:293:5)
+2023-10-12T16:51:23.630Z Error: Invalid buildpack ``
+2023-10-12T16:51:23.630Z Error ID: invalid_params
+2023-10-12T16:51:23.630Z     at Function.request (/usr/lib/heroku/node_modules/@heroku-cli/command/lib/api-client.js:108:27)
+2023-10-12T16:51:23.630Z     at async BuildpackCommand.put (/usr/lib/heroku/lib/lib/buildpacks/buildpacks.js:97:28)
+2023-10-12T16:51:23.630Z     at async Set.run (/usr/lib/heroku/lib/commands/buildpacks/set.js:24:34)
+2023-10-12T16:51:23.630Z     at async Set._run (/usr/lib/heroku/node_modules/@oclif/core/lib/command.js:117:22)
+2023-10-12T16:51:23.630Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/core/lib/config/config.js:329:25)
+2023-10-12T16:51:23.630Z     at async Object.run (/usr/lib/heroku/node_modules/@oclif/core/lib/main.js:89:16)
+2023-10-12T17:59:01.599Z Warning: update with "sudo apt update && sudo apt install heroku"
+2023-10-12T17:59:01.599Z     at Object.warn (/usr/lib/heroku/node_modules/@oclif/plugin-update/node_modules/@oclif/core/lib/errors/index.js:49:15)
+2023-10-12T17:59:01.599Z     at Updater.notUpdatable (/usr/lib/heroku/node_modules/@oclif/plugin-update/lib/update.js:218:27)
+2023-10-12T17:59:01.599Z     at Updater.runUpdate (/usr/lib/heroku/node_modules/@oclif/plugin-update/lib/update.js:30:18)
+2023-10-12T17:59:01.599Z     at async UpdateCommand._run (/usr/lib/heroku/node_modules/@oclif/plugin-update/node_modules/@oclif/core/lib/command.js:108:22)
+2023-10-12T17:59:01.599Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/core/lib/config/config.js:329:25)
+2023-10-12T17:59:01.599Z     at async Object.run (/usr/lib/heroku/node_modules/@oclif/core/lib/main.js:89:16)
+2023-10-16T21:43:58.790Z Error: Couldn't find that app.
+2023-10-16T21:43:58.790Z Error ID: not_found
+2023-10-16T21:43:58.790Z     at Function.request (/usr/lib/heroku/node_modules/@heroku-cli/command/lib/api-client.js:108:27)
+2023-10-16T21:43:58.790Z     at async GitClone.run (/usr/lib/heroku/lib/commands/git/clone.js:11:31)
+2023-10-16T21:43:58.790Z     at async GitClone._run (/usr/lib/heroku/node_modules/@oclif/core/lib/command.js:117:22)
+2023-10-16T21:43:58.790Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/core/lib/config/config.js:329:25)
+2023-10-16T21:43:58.790Z     at async Object.run (/usr/lib/heroku/node_modules/@oclif/core/lib/main.js:89:16)
+2023-10-16T21:44:15.997Z Error: The requested API endpoint was not found. Are you using the right HTTP verb (i.e. `GET` vs. `POST`), and did you specify your intended version with the `Accept` header?
+2023-10-16T21:44:15.997Z Error ID: not_found
+2023-10-16T21:44:15.997Z     at Function.request (/usr/lib/heroku/node_modules/@heroku-cli/command/lib/api-client.js:108:27)
+2023-10-16T21:44:15.997Z     at async GitClone.run (/usr/lib/heroku/lib/commands/git/clone.js:11:31)
+2023-10-16T21:44:15.997Z     at async GitClone._run (/usr/lib/heroku/node_modules/@oclif/core/lib/command.js:117:22)
+2023-10-16T21:44:15.997Z     at async Config.runCommand (/usr/lib/heroku/node_modules/@oclif/core/lib/config/config.js:329:25)
+2023-10-16T21:44:15.997Z     at async Object.run (/usr/lib/heroku/node_modules/@oclif/core/lib/main.js:89:16)
