@@ -39,3 +39,5 @@
 3.4.0 actionpack:>= 5.2,activesupport:>= 5.2,sprockets:>= 3.0.0|checksum:b6e13b773c652e79d8b703632375fb7e7c7db2a553814aadc6bf6cd3c744866c,ruby:>= 2.5
 3.4.1 actionpack:>= 5.2,activesupport:>= 5.2,sprockets:>= 3.0.0|checksum:b855146a305917086ecf02bf64545a3d6a7869f13d6b5b944b176cb117255f5e,ruby:>= 2.5
 3.4.2 actionpack:>= 5.2,activesupport:>= 5.2,sprockets:>= 3.0.0|checksum:36d6327757ccf7460a00d1d52b2d5ef0019a4670503046a129fa1fb1300931ad,ruby:>= 2.5
+3.5.0 actionpack:>= 6.1,activesupport:>= 6.1,sprockets:>= 3.0.0|checksum:9d26058fe90d0f47fdaac13c0059110d5f959c08c4f90e8dd4cb34b3d90f2003,ruby:>= 2.5
+3.5.1 actionpack:>= 6.1,activesupport:>= 6.1,sprockets:>= 3.0.0|checksum:c44626cb3887a1a8b572ca258685db33b4ebd041aa73428a716eac444ee5ef48,ruby:>= 2.5

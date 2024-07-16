@@ -61,3 +61,5 @@
 5.0.0 nokogiri:~> 1.6,rubyzip:>= 1.3.0,selenium-webdriver:~> 4.0|checksum:b292577fd9575f80d344a02255ae3f7dca1b05f9777b6a2d2c2d07c11987aa2f,ruby:>= 2.6.0
 5.1.0 nokogiri:~> 1.6,rubyzip:>= 1.3.0,selenium-webdriver:~> 4.0|checksum:913a46351ffc72566381732d907bb2d76555c6ed06b7ec6d0da166918a5d1349,ruby:>= 2.6.0
 5.2.0 nokogiri:~> 1.6,rubyzip:>= 1.3.0,selenium-webdriver:~> 4.0|checksum:8387bdeed5df329b85bd5303a2198c91418e5887e2d71298de677a9bc249b35b,ruby:>= 2.6.0
+5.3.0 nokogiri:~> 1.6,rubyzip:>= 1.3.0,selenium-webdriver:< 4.11&~> 4.0|checksum:ea767a601a1e5904f83b0d6ae4531357922805d999d4dad22dc93731026f1033,ruby:>= 2.6.0
+5.3.1 nokogiri:~> 1.6,rubyzip:>= 1.3.0,selenium-webdriver:< 4.11&~> 4.0|checksum:d7d5531fbc3c44b6a2a7710e3e6c5edc54f35c68af20017309e3eccf15ec4aa5,ruby:>= 2.6.0

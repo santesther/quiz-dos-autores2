@@ -16,3 +16,4 @@
 6.1.1 cucumber-core:>= 10.0.1&~> 10.0,cucumber-cucumber-expressions:>= 12.1.2&~> 12.1,cucumber-messages:>= 17.0.1&~> 17.0|checksum:a59bfaee5483aa805248bf46e57e278f7edffcb9e09e7e3016b19e4faebddfda,ruby:>= 2.3
 6.2.0 cucumber-core:>= 10.1.0&~> 10.1,cucumber-cucumber-expressions:>= 14.0.0&~> 14.0,cucumber-messages:>= 17.1.1&~> 17.1|checksum:ea4ffe2ab2b95ef18f2895406dea05039e4e265f7f5b58d49d04e7f051c477fe,ruby:>= 2.3
 6.2.1 cucumber-core:>= 10.1.0&~> 10.1,cucumber-cucumber-expressions:>= 14.0.0&~> 14.0|checksum:699dcde817ae0e98826606e5f8537eb3755d0f97c75806ee9193319a606ebede,ruby:>= 2.3
+7.0.0 cucumber-core:< 14&> 10.1,cucumber-cucumber-expressions:< 18&> 14|checksum:7a658efa333d10a2f087095a54e1ed7658c8f87f1b273bd657f6f039cc2f0c69,ruby:>= 2.6

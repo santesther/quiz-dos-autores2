@@ -37,3 +37,7 @@
 10.1.1 cucumber-gherkin:>= 22.0.0&~> 22.0,cucumber-messages:>= 17.1.1&~> 17.1,cucumber-tag-expressions:>= 4.1.0&~> 4.1|checksum:d929773b4f821b20427876602c3698525280acf2c230bd3c33eeee1e08a25630,ruby:>= 2.3
 11.0.0 cucumber-gherkin:>= 23.0.1&~> 23.0,cucumber-messages:>= 18.0.0&~> 18.0,cucumber-tag-expressions:>= 4.1.0&~> 4.1|checksum:300f0b27e54cee4167ad4930ccc6fbd9477fbcee31f9730084ac96cf0a4f2f37,ruby:>= 2.3
 11.1.0 cucumber-gherkin:< 27&>= 24,cucumber-messages:< 22&>= 19,cucumber-tag-expressions:>= 4.1.0&~> 4.1|checksum:4b5a76518555f97be0e7220011a593462941c7dbd225e610f0f1f7ccf5f4b90a,ruby:>= 2.3
+12.0.0 cucumber-gherkin:< 27&>= 25,cucumber-messages:< 23&>= 20,cucumber-tag-expressions:>= 5.0.4&~> 5.0|checksum:c2a7f4c457dd64df6cc7f430392fb5c03160805eafb27849639fee65d5bb9dfa,ruby:>= 2.5
+13.0.0 cucumber-gherkin:< 28&>= 27,cucumber-messages:< 23&>= 20,cucumber-tag-expressions:< 7&> 5|checksum:7d417e02fbe6accfe9aed30df73a7df0b65b8f82490647ad148346af01f9adcc,ruby:>= 2.5,rubygems:>= 3.0.1
+13.0.1 cucumber-gherkin:< 28&>= 27,cucumber-messages:< 23&>= 20,cucumber-tag-expressions:< 7&> 5|checksum:757f9dbfb1e2e0eec19f5fc1091b56a388fb42ba23322be8f10207e6fab3c5c9,ruby:>= 2.5,rubygems:>= 3.0.1
+13.0.2 cucumber-gherkin:< 28&>= 27,cucumber-messages:< 23&>= 20,cucumber-tag-expressions:< 7&> 5|checksum:eeb62b06ba538a24f1c7df591253a7deeb0552c1e9f3f36adca153921ffb0064,ruby:>= 2.5,rubygems:>= 3.0.1

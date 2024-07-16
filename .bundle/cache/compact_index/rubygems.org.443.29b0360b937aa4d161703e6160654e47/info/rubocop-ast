@@ -55,3 +55,8 @@
 1.28.0 parser:>= 3.2.1.0|checksum:051b5d53eb0840406d1b28a825087a6b4e8cc5dd1386887ec8f65cf39cd24f58,ruby:>= 2.6.0
 1.28.1 parser:>= 3.2.1.0|checksum:5a52ac8833c5c3756a8279e304cd9f26f3ad3e691be65ad90412b7ffa2fc483f,ruby:>= 2.6.0
 1.29.0 parser:>= 3.2.1.0|checksum:d1da2ab279a074baefc81758ac430c5768a8da8c7438dd4e5819ce5984d00ba1,ruby:>= 2.6.0
+1.30.0 parser:>= 3.2.1.0|checksum:faad6452b1018fee0dd9e21a44445908e94ee2a4435932a9dae0e0740b6349b3,ruby:>= 2.6.0
+1.31.0 parser:>= 3.3.0.4,prism:>= 0.24.0|checksum:ecffd66960b42ad65fff88038c3f74d8cee4671b922476f8d42c520f4e0c7f54,ruby:>= 2.7.0
+1.31.1 parser:>= 3.3.0.4|checksum:c02282d8af84a67d3eeab6fa29888a1093dc342c6d9cb05af050a71e5e855e8a,ruby:>= 2.7.0
+1.31.2 parser:>= 3.3.0.4|checksum:7c206fb094553779923eca862aceece3913ce384f1bf85730208228e884578ec,ruby:>= 2.7.0
+1.31.3 parser:>= 3.3.1.0|checksum:1b07d618d8776993ec6053a706d1c09f0bf15139fd69415924656cbff07e7818,ruby:>= 2.7.0

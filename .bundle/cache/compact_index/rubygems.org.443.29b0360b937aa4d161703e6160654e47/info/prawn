@@ -40,3 +40,4 @@
 2.2.2 pdf-core:~> 0.7.0,ttfunk:~> 1.5|checksum:95284b761f0ea99334ef840ab85f577cfe2cc9448f769cc723843a6d7670b2e1,ruby:~> 2.1,rubygems:>= 1.3.6
 2.3.0 pdf-core:~> 0.8.1,ttfunk:~> 1.6|checksum:38376dee380c8920d3b70ac5bfd3a2213f02f7a7343f8e6e4c1f22c671a9f672,ruby:~> 2.5,rubygems:>= 1.3.6
 2.4.0 pdf-core:~> 0.9.0,ttfunk:~> 1.7|checksum:82062744f7126c2d77501da253a154271790254dfa8c309b8e52e79bc5de2abd,ruby:>= 2.5,rubygems:>= 1.3.6
+2.5.0 matrix:~> 0.4,pdf-core:~> 0.10.0,ttfunk:~> 1.8|checksum:f4e20e3b4f30bf5b9ae37dad15eb421831594553aa930b2391b0fa0a99c43cb6,ruby:>= 2.7,rubygems:>= 1.3.6

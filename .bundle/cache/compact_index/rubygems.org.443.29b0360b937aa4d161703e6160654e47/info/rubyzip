@@ -34,3 +34,4 @@
 2.3.1 |checksum:80d2d0a5c5fc21d2ef59a0e830ef3a6a68df4be3530370878884eacdf20b9615,ruby:>= 2.4
 2.3.2 |checksum:3f57e3935dc2255c414484fbf8d673b4909d8a6a57007ed754dde39342d2373f,ruby:>= 2.4
 3.0.0.alpha |checksum:9bfa567ba4f19862762fbea29213d7fb16b1304a3aa3a5c2fa5f3f14e4b95ab1,ruby:>= 2.5,rubygems:> 1.3.1
+2.4.rc1 |checksum:37fe2d87712c386682f63d14e612e08a473301c38bb7eec5db99c195d34a16ca,ruby:>= 2.4,rubygems:> 1.3.1

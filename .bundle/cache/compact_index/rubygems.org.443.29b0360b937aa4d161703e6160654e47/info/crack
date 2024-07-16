@@ -17,3 +17,5 @@
 0.4.3 safe_yaml:~> 1.0.0|checksum:5318ba8cd9cf7e0b5feb38948048503ba4b1fdc1b6ff30a39f0a00feb6036b29
 0.4.4 |checksum:8c9ef58ba2ed1c28e37414093b06944bfe1feceee3ef76fb3e0e5849bc4491ab
 0.4.5 rexml:>= 0|checksum:798416fb29b8c9f655d139d5559169b39c4a0a3b8f8f39b7f670eec1af9b21b3
+0.4.6 bigdecimal:>= 0,rexml:>= 0|checksum:ee251d0aab36ab196946b851fd129870d66bdde4855cfdb3078d86a619c28864,ruby:>= 2.0
+1.0.0 bigdecimal:>= 0,rexml:>= 0|checksum:c83aefdb428cdc7b66c7f287e488c796f055c0839e6e545fec2c7047743c4a49,ruby:>= 2.0

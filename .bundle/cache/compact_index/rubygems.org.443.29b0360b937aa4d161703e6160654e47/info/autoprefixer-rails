@@ -287,3 +287,5 @@
 10.4.2.0 execjs:~> 2|checksum:2ebb73e19f0986625ff6044c6cbab85579109352435b1e1201a5f35a59644eeb,ruby:>= 2.4
 10.4.7.0 execjs:~> 2|checksum:987702faec9a14fa2abfc724c39c9ac40ec44e22312ea89ddf5eecd03a181b08,ruby:>= 2.4
 10.4.13.0 execjs:~> 2|checksum:669cdfe60c624b0fc95e208a96740af73eb6beb41ab8a3ddf5c1b8409a275d41,ruby:>= 2.4
+10.4.15.0 execjs:~> 2|checksum:5396dd3a68e108ab5195a305b708b3d5ea8a858162dbe61520e89c548f551175,ruby:>= 2.4
+10.4.16.0 execjs:~> 2|checksum:40c4b14d6f26f66026cd0d4631baf18d6c56aab425b36059c8abbda17f19a706,ruby:>= 2.4

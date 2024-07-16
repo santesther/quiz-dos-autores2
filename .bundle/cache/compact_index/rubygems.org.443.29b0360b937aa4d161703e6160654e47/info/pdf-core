@@ -22,3 +22,4 @@
 0.7.0 |checksum:c1afdbb79edaf7c9fea69fd4b8d3b2c68eeb7203ce4db0e80be5392e20e394a6,ruby:>= 1.9.3,rubygems:>= 1.3.6
 0.8.1 |checksum:6f6bfb50d59dddfdbc5bf216907a790ede2fe5757884c726fd6b21b652aaa695,ruby:>= 2.3,rubygems:>= 1.3.6
 0.9.0 |checksum:4f368b2f12b57ec979872d4bf4bd1a67e8648e0c81ab89801431d2fc89f4e0bb,ruby:>= 2.5,rubygems:>= 1.3.6
+0.10.0 |checksum:0a5d101e2063c01e3f941e1ee47cbb97f1adfc1395b58372f4f65f1300f3ce91,ruby:>= 2.7,rubygems:>= 1.3.6

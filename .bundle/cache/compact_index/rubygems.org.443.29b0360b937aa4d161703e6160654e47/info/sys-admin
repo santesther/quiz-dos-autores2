@@ -44,3 +44,6 @@
 1.8.1-universal-mingw32 ffi:~> 1.1,win32-security:~> 0.5|checksum:12ad3ad3e7e084130533857109304440fa2b7bd6d6bd32c700696884c15a7abc
 1.8.2 ffi:~> 1.1|checksum:bc78a0928f5b93f73e8bdbf50517f1204261572338e4b27cebef4b05af8fedc7
 1.8.2-universal-mingw32 ffi:~> 1.1,win32-security:~> 0.5|checksum:c0ff813ba0a1bb4bc16e55234f8584bea7e11c7d611c0d68bd66df543a59fcde
+1.8.3 ffi:~> 1.1|checksum:7997b01ff215c40cea8b4597653e73b6d00c69fa555d1186251953956b9b5ef5
+1.8.3-universal-mingw32 ffi:~> 1.1,win32-security:~> 0.5|checksum:415ff6f6573b0bee227853bc0779557409d8b3611cd7b3cfe9e9d6b3af4bfe5a
+1.8.4 ffi:~> 1.1|checksum:9303b25b7dcb03f00f368b252e7348a2a9d1cc567a4b9854734c8d74faa96a4f

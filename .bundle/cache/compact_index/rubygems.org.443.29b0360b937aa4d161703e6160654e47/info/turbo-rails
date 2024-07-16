@@ -43,3 +43,17 @@
 1.3.2 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:21f86b66ae5eb6fba9c71262363f1733a69954dc22e381f6d0d21fed3c9dab1f,ruby:>= 2.6.0
 1.3.3 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:1311bd6f45d619e674ec1f6b17f9ad64ce3534c8bab937670d1bea2990fd868e,ruby:>= 2.6.0
 1.4.0 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:108f2bf0245babfac286301759f80bfc92fbb5db902610cbf7becf911f8ea36e,ruby:>= 2.6.0
+1.5.0 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:b426cc762fb0940277729b3f1751a9f0bd269f5613c1d62ac73e5f0be7c7a83e,ruby:>= 2.6.0
+2.0.0.pre.beta.1 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:3325621735cd5fa76d44d5a646e8106ed5c72b72286c5fc5d5cb82ddd2e2cb22,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0.pre.beta.2 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:1881166cd5cc0380646a470ee17be8ead3239bbe812cb5ba0497c2adffdee480,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0.pre.beta.3 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:93a4bb9ee156b4d3b178533af7296f7ee485e05f05a11160bad72a4a2f2e8fba,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0.pre.beta.4 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:5e2fc369d1bf6566593d93f6c3ddb808356b403c2e296080d9d1121ca2e525d6,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0.pre.rc.1 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:7bea7bc017852ed025e899b030eccbf984caddffefcd6536d1ca1b7b91774e1c,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0.pre.rc.2 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:3b2e15f4c7d2e1aa650c7af00d7103226c8f04800ddf546f8991615389699055,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0.pre.rc.3 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:4fc4b1c46c2cf48c04de159f0b57bd440a3159609aa2d6067f4872c8ff546e52,ruby:>= 2.6.0,rubygems:> 1.3.1
+2.0.0 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:4ebe0335264dc061689af375d705ea17ca5ca808bf58efb99b2f93a19a81daed,ruby:>= 2.6.0
+2.0.1 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:ac4e97d014ce1e8e6351802e63ead45bc6d7ef7d453e28229a327eccf8ee0043,ruby:>= 2.6.0
+2.0.2 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:074ca2ef44176c973404ebcb4ba084d0c3802dd4b9f8d4e290ef5a1a8b07ffed,ruby:>= 2.6.0
+2.0.3 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:f1bf7e814f7117836c54c6e122a285a48adfb4891ab7d3b8b5e84e20f40251ea,ruby:>= 2.6.0
+2.0.4 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:bddf774b3f491321b157673cf02dbc7b3e22359e05e0004df8991108c00d3871,ruby:>= 2.6.0
+2.0.5 actionpack:>= 6.0.0,activejob:>= 6.0.0,railties:>= 6.0.0|checksum:cef775349c24734e52937997c2c4582a95966b3f81a173a9bcf037074a766229,ruby:>= 2.6.0

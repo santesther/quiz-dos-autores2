@@ -122,3 +122,7 @@
 3.12.3 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.12.0|checksum:cc0a1176707e641a2c66c71fe769486fec57d7df8ec7e34320f8957a1363026b,ruby:>= 1.8.7
 3.12.4 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.12.0|checksum:328a0ce0831d515bc082ca8a1538bf9015d40855baf987acc951cf510b828eb5,ruby:>= 1.8.7
 3.12.5 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.12.0|checksum:82030d2bfa1e4eef0a2ee36af5d3d224672598912a3f3384f27cbba9fa09d5c1,ruby:>= 1.8.7
+3.12.6 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.12.0|checksum:de51a4148ba2ce6f1c1646a2a03e9df2f52da9a42b164f2e7467b2cbe37e07bf,ruby:>= 1.8.7
+3.12.7 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.12.0|checksum:b2f10a7879781de9448f28e5dc399277d4eac14d577b450e4c04b7897fe4c6a8,ruby:>= 1.8.7
+3.13.0 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.13.0|checksum:735a891215758d77cdb5f4721fffc21078793959d1f0ee4a961874311d9b7f66,ruby:>= 1.8.7
+3.13.1 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.13.0|checksum:087189899c337937bcf1d66a50dc3fc999ac88335bbeba4d385c2a38c87d7b38,ruby:>= 1.8.7

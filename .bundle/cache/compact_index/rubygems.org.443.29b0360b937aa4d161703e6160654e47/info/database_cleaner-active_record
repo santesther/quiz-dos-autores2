@@ -8,3 +8,4 @@
 2.0.0 activerecord:>= 5.a,database_cleaner-core:~> 2.0.0|checksum:158d7946779f4f8158a5702ba945b3fae1a1a828c2a1b87e560d16c34f93e7c9
 2.0.1 activerecord:>= 5.a,database_cleaner-core:~> 2.0.0|checksum:d55bbd23504b9793e144cde67f1c28ab5ea21eeb5db276333e941950d150bdfb
 2.1.0 activerecord:>= 5.a,database_cleaner-core:~> 2.0.0|checksum:7384b973d67bcc1b5a850b876a4638aa83cca3bc88f9d87562fe25cd2dd60d8a
+2.2.0 activerecord:>= 5.a,database_cleaner-core:~> 2.0.0|checksum:3228d6d8ec1f2103fd6ab468dae923424318bcfabcf5dd5b02e5fcb0c486e1c7

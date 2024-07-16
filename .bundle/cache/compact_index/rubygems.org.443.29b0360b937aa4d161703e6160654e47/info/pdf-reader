@@ -57,3 +57,4 @@
 2.9.2 afm:~> 0.2.1,Ascii85:~> 1.0,hashery:~> 2.0,ruby-rc4:>= 0,ttfunk:>= 0|checksum:c649bfbf1add6e9271b3738f88b9d0a1bb45ddc06c5a91178a0640b62005abde,ruby:>= 2.0
 2.10.0 afm:~> 0.2.1,Ascii85:~> 1.0,hashery:~> 2.0,ruby-rc4:>= 0,ttfunk:>= 0|checksum:9f6f3ab26b85f45d4049050b58dc8a6ec58342f943db67653199e2e1ba87901d,ruby:>= 2.0
 2.11.0 afm:~> 0.2.1,Ascii85:~> 1.0,hashery:~> 2.0,ruby-rc4:>= 0,ttfunk:>= 0|checksum:03238525f98340f7598ce5e292a2cbe8a87f9a2a5617c8cdd5e2467b65115d27,ruby:>= 2.0
+2.12.0 afm:~> 0.2.1,Ascii85:~> 1.0,hashery:~> 2.0,ruby-rc4:>= 0,ttfunk:>= 0|checksum:61e72a4839cf2b3735a4b08dcb00e23c57a51d199494a5b11bd78e49d7b91758,ruby:>= 2.0

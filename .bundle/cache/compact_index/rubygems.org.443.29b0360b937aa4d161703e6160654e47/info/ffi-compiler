@@ -8,3 +8,5 @@
 0.1.3 ffi:>= 1.0.0,rake:>= 0|checksum:c46ca2599c43a1f553550a5e861902fd457eff1eb824ef20d41d23dd08dc1728,ruby:>= 1.9
 1.0.0 ffi:>= 1.0.0,rake:>= 0|checksum:46e94c3f71d77bd01d37acc588e94297599f44c34f34bb59e2747ad7c31f85e7,ruby:>= 1.9
 1.0.1 ffi:>= 1.0.0,rake:>= 0|checksum:019f389b078a2fec9de7f4f65771095f80a447e34436b4588bcb629e2a564c30,ruby:>= 1.9
+1.3.1 ffi:>= 1.15.5,rake:>= 0|checksum:a91e27fcc2c23a46aded2d8ec895832844b307a47b0972c0eb52850e5e2ad47b,ruby:>= 1.9
+1.3.2 ffi:>= 1.15.5,rake:>= 0|checksum:a94f3d81d12caf5c5d4ecf13980a70d0aeaa72268f3b9cc13358bcc6509184a0,ruby:>= 1.9

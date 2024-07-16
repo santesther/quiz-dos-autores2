@@ -90,3 +90,7 @@
 5.0.5 redis-client:>= 0.9.0|checksum:05a6be01bf3262c4412fcf7ee83a6d642da3c1fc006ccc8e80b57b0bb0de50e8,ruby:>= 2.5.0
 5.0.6 redis-client:>= 0.9.0|checksum:33597dacb683da6a0fd64ad146d84552b487176aa5f3cd4797b3f4f06af92583,ruby:>= 2.5.0
 4.8.1 |checksum:387ee086694fffc9632aaeb1efe4a7b1627ca783bf373320346a8a20cd93333a,ruby:>= 2.4.0
+5.0.7 redis-client:>= 0.9.0|checksum:dcf1c03aaa28e13c96dd625ea5c98ce85573d2d9a5ae998d140eb803dfc71803,ruby:>= 2.5.0
+5.0.8 redis-client:>= 0.17.0|checksum:3b770ea597850b26d6a9718fa184241e53e6c8a7ae0486ee8bfaefd29f26f3d8,ruby:>= 2.5.0
+5.1.0 redis-client:>= 0.17.0|checksum:bfcf6377baded8e6acb06c77ef3994116e2bcf6c3446a1f3f04a1dc8d8f869fb,ruby:>= 2.5.0
+5.2.0 redis-client:>= 0.22.0|checksum:336b975a56b166c6af4d4a1026c71dbed429ba5dc949aac373ef2fded07936b4,ruby:>= 2.6.0

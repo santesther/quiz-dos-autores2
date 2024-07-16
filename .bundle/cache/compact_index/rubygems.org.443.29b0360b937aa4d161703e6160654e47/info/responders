@@ -46,3 +46,4 @@
 3.0.0 actionpack:>= 5.0,railties:>= 5.0|checksum:a267b281582802d04cf0968dbc7d60df0d48384915934b3bf9018f811dc3f7dc,ruby:>= 2.4.0
 3.0.1 actionpack:>= 5.0,railties:>= 5.0|checksum:613fe28e498987f4feaa3230aa6313ca4bd5f0563a3da83511b0dd6cd8f47292,ruby:>= 2.4.0
 3.1.0 actionpack:>= 5.2,railties:>= 5.2|checksum:3d7b3a40b74f7968a5d6c8c9ec8b0cdd022f39951160d89f003fe73b67053a55,ruby:>= 2.5.0
+3.1.1 actionpack:>= 5.2,railties:>= 5.2|checksum:92f2a87e09028347368639cfb468f5fefa745cb0dc2377ef060db1cdd79a341a,ruby:>= 2.5.0

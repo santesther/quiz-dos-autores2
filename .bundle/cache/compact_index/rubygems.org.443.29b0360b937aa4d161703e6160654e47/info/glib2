@@ -211,3 +211,7 @@
 4.1.6 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:9d90c3cafa913ca8093867eedf463c3fe8a950e6ba89a2b0cca6962f321b2051
 4.1.7 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:f4798fd8477a9454aa6408dfb9d71f34c29abfd64b1b01b51ca05fc4a45bfca6
 4.1.8 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:c41a68cd0ef1bd2a7ee60dbd4591e34f1218f75e23c51ebc86bbb9534f192303
+4.1.9 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:f2db7332a1420a64127451274c8ab452858644e6fe871e150aca91466fc21bdc
+4.2.0 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:03572d806044ea8c51a54c60c8141da0a58c485a03f9e9de7f507fdbaf090f17
+4.2.1 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:63bb28d488d4cf6923080c5b37d15a24d043f1ee21100b43407c06f1e5987b51
+4.2.2 native-package-installer:>= 1.0.3,pkg-config:>= 1.3.5|checksum:98958af64a7c947fc52f664350b6610868f9b83cdfaca576bbae09a38b322052

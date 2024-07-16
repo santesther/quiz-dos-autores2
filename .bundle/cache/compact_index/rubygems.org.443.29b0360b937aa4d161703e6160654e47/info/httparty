@@ -79,3 +79,4 @@
 0.19.1 mime-types:~> 3.0,multi_xml:>= 0.5.2|checksum:8344cc693ac7e68f304b024407d7c1271da8283c7c385f0e116db435c322fcef,ruby:>= 2.0.0
 0.20.0 mime-types:~> 3.0,multi_xml:>= 0.5.2|checksum:490d2a028a5accc611f1685d479d80ef80b129140d24a93c53c119f578614867,ruby:>= 2.3.0
 0.21.0 mini_mime:>= 1.0.0,multi_xml:>= 0.5.2|checksum:00ef7bf9a71f30a3bff88edeb5b16a34bea883ab67c246b3f0db2d6794fe1214,ruby:>= 2.3.0
+0.22.0 csv:>= 0,mini_mime:>= 1.0.0,multi_xml:>= 0.5.2|checksum:78652a5c9471cf0093d3b2083c2295c9c8f12b44c65112f1846af2b71430fa6c,ruby:>= 2.7.0

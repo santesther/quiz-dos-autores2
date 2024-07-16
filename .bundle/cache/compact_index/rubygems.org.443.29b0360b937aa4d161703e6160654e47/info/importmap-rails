@@ -57,3 +57,7 @@
 1.1.6 actionpack:>= 6.0.0,railties:>= 6.0.0|checksum:b3743dd1321507acf5fdda6e491716c906cadeb371d7bc8b030214cae57f1e81,ruby:>= 2.7.0
 1.2.0 actionpack:>= 6.0.0,railties:>= 6.0.0|checksum:50a0a010eade63354212dc31f4a142680bf62d2c2b159edd5c5ed9dd9d955a48,ruby:>= 2.7.0
 1.2.1 actionpack:>= 6.0.0,railties:>= 6.0.0|checksum:197251346584835422e48ba479aa02b47be955d9204548ac0d3b3531cd90b3ea,ruby:>= 2.7.0
+1.2.2 actionpack:>= 6.0.0,railties:>= 6.0.0|checksum:e4945ecd79ce695dd5631d9d9cd6d3c4bf6f3c7ec8720248a2ea9ee44c9263e4,ruby:>= 2.7.0
+1.2.3 actionpack:>= 6.0.0,activesupport:>= 6.0.0,railties:>= 6.0.0|checksum:31f1d82efe03436f3d863626846d0cdfb64e143f2e63690913279e37354312d9,ruby:>= 2.7.0
+2.0.0 actionpack:>= 6.0.0,activesupport:>= 6.0.0,railties:>= 6.0.0|checksum:a9c0543cf1caa5f222c0fef2bfa75c066d21e5c832ac39d31ac309c81f1da675,ruby:>= 2.7.0
+2.0.1 actionpack:>= 6.0.0,activesupport:>= 6.0.0,railties:>= 6.0.0|checksum:e739a6e70c09f797688c6983fa79567ec1edc9becc30d55b3f7cc897b1825586,ruby:>= 2.7.0

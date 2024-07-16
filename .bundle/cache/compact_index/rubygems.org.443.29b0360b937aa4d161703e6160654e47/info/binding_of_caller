@@ -23,3 +23,4 @@
 0.7.3 debug_inspector:>= 0.0.1|checksum:c32ba3d6a64a1272118e09d40ae1b0f496924c35baef7149859ee52a453f2ec0
 0.8.0 debug_inspector:>= 0.0.1|checksum:afec4df042fb62bac8a962df222f4c12b6ad725bcb3519bcfec390a327c55e17
 1.0.0 debug_inspector:>= 0.0.1|checksum:3aad25d1d538fc6e7972978f9bf512ccd992784009947c81633bea776713161d,ruby:>= 2.0.0
+1.0.1 debug_inspector:>= 1.2.0|checksum:2b2902abff4246ddcfbc4da9b69bc4a019e22aeb300c2ff6289a173d4b90b29a,ruby:>= 2.0.0

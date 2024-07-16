@@ -82,3 +82,4 @@
 2.11.3 activesupport:>= 5.0.0|checksum:d6553c37ff0527170fcc5bd4db07dae9a04bcacedf99ca46f652631e80840ea9,ruby:>= 2.2.2
 2.11.4 activesupport:>= 5.0.0|checksum:9af599c23a3010eecd8a146830544b441436e0e0e68101b0445f7651f719046d,ruby:>= 2.2.2
 2.11.5 actionview:>= 5.0.0,activesupport:>= 5.0.0|checksum:ea6234b334f4afc9205eaa136729da2904731ca01ff05d4db3173b70ebeba8c0,ruby:>= 2.2.2
+2.12.0 actionview:>= 5.0.0,activesupport:>= 5.0.0|checksum:47e9be3240b8901cabbbfa2191a2a87fcab01630816fb8b979e787cf268726d2,ruby:>= 2.2.2

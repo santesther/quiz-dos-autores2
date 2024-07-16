@@ -1,3 +1,5 @@
+export FLYCTL_INSTALL="/home/esther/porfavor/.fly"
+export PATH="$FLYCTL_INSTALL/bin:$PATH"
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 

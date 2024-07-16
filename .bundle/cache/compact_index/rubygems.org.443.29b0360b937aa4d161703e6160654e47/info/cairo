@@ -119,3 +119,4 @@
 1.17.10 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2,red-colors:>= 0|checksum:1b9e1bccfe80c88c6b07fdc173155753c3e9760edd92bbeabeb5d87b1d990668,ruby:>= 2.2.1
 1.17.11 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2,red-colors:>= 0|checksum:e92165b9c6179b269b8cbcf8caf7fd7dad54c3c976ba164ad909221346de54ed,ruby:>= 2.2.1
 1.17.12 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2,red-colors:>= 0|checksum:d19fe81c4eacba3efe0dd03e7541bb72dbbfb39625099d0e8e2993dfb7e5a8ea,ruby:>= 2.2.1
+1.17.13 native-package-installer:>= 1.0.3,pkg-config:>= 1.2.2,red-colors:>= 0|checksum:8ca44023747de6c290e71657c4b826f500dc2996ec78759719c28a25757c05a9,ruby:>= 2.2.1

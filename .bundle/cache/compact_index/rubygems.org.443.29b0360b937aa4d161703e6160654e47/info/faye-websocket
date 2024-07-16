@@ -44,3 +44,4 @@
 0.11.0 eventmachine:>= 0.12.0,websocket-driver:>= 0.5.1|checksum:a36a315bf69407267d0171d443b5bc0004f14f66e37f3bbc2008fe40567b96b3
 0.11.1 eventmachine:>= 0.12.0,websocket-driver:>= 0.5.1|checksum:c8e1a7215a020849b1d3dffd1397c62169944f192139e592b795b05e0c589992
 0.11.2 eventmachine:>= 0.12.0,websocket-driver:>= 0.5.1|checksum:41902857ff53295a6028d55152ec4929cc9cfb3d55f2ea87f49d96b3c7d790dc
+0.11.3 eventmachine:>= 0.12.0,websocket-driver:>= 0.5.1|checksum:109187161939c57032d2bba9e5c45621251d73f806bb608d2d4c3ab2cabeb307

@@ -57,3 +57,5 @@
 0.7.4-java websocket-extensions:>= 0.1.0|checksum:835cd478fb308dc025e2d56413e3ef96eb0bc7c8c5995a6537dcbe2f7ee9a207
 0.7.5 websocket-extensions:>= 0.1.0|checksum:a280c3f44dcbb0323d58bc78dc49350c05d589ab7d13267fcff08d9d5ae76b28
 0.7.5-java websocket-extensions:>= 0.1.0|checksum:fffa83aa188e9ac90e32a385832ec9d26acdf019538e1c7d703f2c8a323b39c8
+0.7.6 websocket-extensions:>= 0.1.0|checksum:f69400be7bc197879726ad8e6f5869a61823147372fd8928836a53c2c741d0db
+0.7.6-java websocket-extensions:>= 0.1.0|checksum:bc894b9e9d5aee55ac04b61003e1957c4ef411a5a048199587d0499785b505c3

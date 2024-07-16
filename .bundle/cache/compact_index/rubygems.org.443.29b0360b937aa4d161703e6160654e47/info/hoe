@@ -138,3 +138,8 @@
 4.0.2 rake:< 15.0&>= 0.8|checksum:fa22951beaf46ff798fc3fed456917c8307a6c6c970c3d5ad847ed82704e6fa5,ruby:< 4&>= 2.6,rubygems:>= 3.0
 4.0.3 rake:< 15.0&>= 0.8|checksum:463468b759c693fe7a9c5f95aee17050da764c6711c2003f0b6a173029ff558b,ruby:< 4&>= 2.6,rubygems:>= 3.0
 4.0.4 rake:< 15.0&>= 0.8|checksum:161ae216d3ba00d556ff4b1d6b9b12893db55cd7a94dbd9786a9c984ebf15064,ruby:< 4&>= 2.7,rubygems:>= 3.0
+4.0.5 rake:< 15.0&>= 0.8|checksum:00a7d59bae41b8f191a49cba9f148fabbf3eeba7a9266b9a7da3063416d9bcbb,ruby:< 4&>= 2.7,rubygems:>= 3.0
+4.1.0 rake:< 15.0&>= 0.8|checksum:241244c3126d61fbe15593ec4462733e817e17715462285a5d84017be60b3b55,ruby:< 4&>= 2.7,rubygems:>= 3.0
+4.2.0 rake:< 15.0&>= 0.8|checksum:377c10088a48f6b6ba20d04ab6d25669b2a3ebc3394d9deb4747599dbb437d0e,ruby:< 4&>= 2.7,rubygems:>= 3.0
+4.2.1 rake:< 15.0&>= 0.8|checksum:7e15ca91994480e3ec5d389c89891d6c8ed0db423e0ff03c6ac4518e4f1b196f,ruby:< 4&>= 2.7,rubygems:>= 3.0
+4.2.2 rake:< 15.0&>= 0.8|checksum:d65f546b18899e795139b5bb7cb272b75c20abbb7540479ce1ed5601f40f12e6,ruby:< 4&>= 2.7,rubygems:>= 3.0

@@ -249,3 +249,12 @@
 4.3.1 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:25223765648b3d75ff917b294ba8142bab1bba2ed307cd63acb6d77491265879,ruby:< 4.0&>= 2.5
 4.4.0 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:b5d51512abc73d58342c3c47d52aaf170a4e2f6674104f75c09255f9e71d5d9c,ruby:< 4.0&>= 2.5
 4.4.1 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:a0191cc0236c50ca6a53e37d007d1ba4540f32131e380486a450d7ff41d47a6f,ruby:< 4.0&>= 2.5
+4.4.2 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:a31953eb12295c16981c84ff422be35ff2bb7e59c2ec848a729f4a5698211d71,ruby:< 4.0&>= 2.5
+4.4.3 hocon:~> 1.3,sys-filesystem:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:32d2dcada49322cbfa2850393fd86d52bf35828edb7306fc5e4f7f2b410811e0,ruby:< 4.0&>= 2.5
+4.5.0 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:c4263ae04a517f3759b4885c22c1b99093fdc416e9e639c763445e158cf92643,ruby:< 4.0&>= 2.5
+4.5.1 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:9cc06a034ac40ff5a21258803b5a3604ae348a029edc2d09fce48076048cf57e,ruby:< 4.0&>= 2.5
+4.5.2 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:e1068064081913d295826a4b190e194e3daf0a2502a5f2b176cbf7d4fc2f5859,ruby:< 4.0&>= 2.5
+4.6.0 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:4cf407fa43cd4e656203f6432351f4cd679aedd85fadb753f7859eeb47c6ccc8,ruby:< 4.0&>= 2.6
+4.6.1 hocon:~> 1.3,thor:< 2.0&>= 1.0.1|checksum:479971e82de8b084f8dd42ad7552fbefc81846507aa80c67ca0d10c75ca3b75f,ruby:< 4.0&>= 2.6
+4.7.0 hocon:~> 1.3,thor:< 1.3&>= 1.0.1|checksum:f02410e602062219430eaf881ece97c43b17c51942bcca39d0a7b98ae5df2f2e,ruby:< 4.0&>= 2.5
+4.7.1 hocon:~> 1.3,thor:< 1.3&>= 1.0.1|checksum:9bdb64175b35024a7e44cbc7b56a30a34f206c2c5311b567d6ae5ad481d92217,ruby:< 4.0&>= 2.5

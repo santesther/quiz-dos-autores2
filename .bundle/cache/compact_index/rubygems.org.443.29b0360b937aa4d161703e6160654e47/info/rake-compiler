@@ -51,3 +51,7 @@
 1.2.1 rake:>= 0|checksum:752f428b89c7e5a542b0682dc6b59deaffc6535cf8050a2609afdfccc579ac0f,ruby:>= 1.8.7,rubygems:>= 1.8.23
 1.2.2 rake:>= 0|checksum:a03e6ac99a0431475fe275f3158408cf2f070959ec8026934aeb68fa2a795e44,ruby:>= 1.8.7,rubygems:>= 1.8.23
 1.2.3 rake:>= 0|checksum:994a53efb3374b8960de536ea1cbdff9a0d36bfe4fd4f409d73a26e60993d085,ruby:>= 1.8.7,rubygems:>= 1.8.23
+1.2.4 rake:>= 0|checksum:8a821cf1a9bdb0e8a5349ae5233c69a02e4e8b061e1349ca92c0846a5d3b13af,ruby:>= 1.8.7,rubygems:>= 1.8.23
+1.2.5 rake:>= 0|checksum:ab9b03a6db5fce88fb8dcff23c0cae3bccd7166f036c7fc8b2199f53ee38b2ac,ruby:>= 1.8.7,rubygems:>= 1.8.23
+1.2.6 rake:>= 0|checksum:66640f9330128a91a20edebd4d58a214dfcd1c764e23809be558b0fa6c618d1b,ruby:>= 1.8.7,rubygems:>= 1.8.23
+1.2.7 rake:>= 0|checksum:5176f8527bbf86db4b333915335eb5fa0b4f578cb82428c3e5e47e48179f0dee,ruby:>= 1.8.7,rubygems:>= 1.8.23

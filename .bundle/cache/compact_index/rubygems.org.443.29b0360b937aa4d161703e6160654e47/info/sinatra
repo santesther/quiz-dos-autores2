@@ -99,3 +99,6 @@
 2.2.4 mustermann:~> 2.0,rack:~> 2.2,rack-protection:= 2.2.4,tilt:~> 2.0|checksum:3e31e9f7ffc89ce3fdd7770c9a4183150d76b6bdcc7322cf38f84303d3016c72,ruby:>= 2.3.0
 3.0.5 mustermann:~> 3.0,rack:>= 2.2.4&~> 2.2,rack-protection:= 3.0.5,tilt:~> 2.0|checksum:40ec7643a65d01b9c25ab5f7cafc5c67ca0b9ac523fa728345d88de69392cee7,ruby:>= 2.6.0
 3.0.6 mustermann:~> 3.0,rack:>= 2.2.4&~> 2.2,rack-protection:= 3.0.6,tilt:~> 2.0|checksum:1d1e158ee7fcdf40e01461bc461f13d854d371b135259370130fca875d870fe0,ruby:>= 2.6.0
+3.1.0 mustermann:~> 3.0,rack:>= 2.2.4&~> 2.2,rack-protection:= 3.1.0,tilt:~> 2.0|checksum:e89e7352a9e5cacf89d52ad4e47acc4e25b5cda7b87747a3ad01eaeb2d0ba400,ruby:>= 2.6.0
+3.2.0 mustermann:~> 3.0,rack:>= 2.2.4&~> 2.2,rack-protection:= 3.2.0,tilt:~> 2.0|checksum:6e727f4d034e87067d9aab37f328021d7c16722ffd293ef07b6e968915109807,ruby:>= 2.6.0
+4.0.0 mustermann:~> 3.0,rack:< 4&>= 3.0.0,rack-protection:= 4.0.0,rack-session:< 3&>= 2.0.0,tilt:~> 2.0|checksum:54f6687b1daf2cfda6cef3f5dc90f47a8d05563cae7753e77cb01f4d3615497d,ruby:>= 2.7.8

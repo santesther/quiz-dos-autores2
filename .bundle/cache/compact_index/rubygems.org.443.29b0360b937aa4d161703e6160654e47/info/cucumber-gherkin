@@ -40,3 +40,5 @@
 26.0.3 cucumber-messages:< 22.0&>= 19.1.4|checksum:710436bd68de3e9a8ea1fc3b6fe946115415bc634730c2ac0fb536e6f1a466d9,ruby:>= 2.3
 26.1.0 cucumber-messages:< 22.0&>= 19.1.4|checksum:7738945a017cf44071a102caebacc592cc291972d3f09fe91c90a4afc6d1625c,ruby:>= 2.3
 26.2.0 cucumber-messages:< 22.1&>= 19.1.4|checksum:9140cbd4535099eca6d4f62677f08c239198771cecd21a18f57ba87f9365c946,ruby:>= 2.3
+27.0.0 cucumber-messages:< 23&>= 19.1.4|checksum:2e6a8212c1d0107f95d75082e8bd5f05ace4e42dd77a396c7b713be3a8067718,ruby:>= 2.5
+28.0.0 cucumber-messages:< 24&>= 19.1.4|checksum:78f4f55f27567acadbce12a76f0032a1ae6cddb93425f2abf159619ea3fb8a71,ruby:>= 2.5
